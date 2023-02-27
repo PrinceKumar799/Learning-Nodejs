@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_web_server",
+  "version": "1.0.0",
+  "description": "web server from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev"  : "nodemon server.js"
+  },
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
