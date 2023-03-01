@@ -1,0 +1,8 @@
+20230228	20:37:30	e262bd6c-623a-4e88-ad5f-fa060bad2db8	Error: Not allowed by CORS
+20230228	21:56:44	d8c8f6de-d6a0-4504-9e92-c21c2ed2cf07	Error: ENOENT: no such file or directory, stat 'D:\DaveGrayNodeJS\Learning-Nodejs\routing\routes\views\new-page.html'
+20230228	22:49:18	e8f506b9-3e38-4e12-8ef0-f571937e296d	TypeError: req.json is not a function
+20230228	22:49:48	2403090c-0ce9-4712-b0b2-846341af55c5	TypeError: req.json is not a function
+20230228	22:49:51	2b65e00a-3575-40b6-8dbc-4fcd452a56bc	TypeError: req.json is not a function
+20230228	22:50:04	49ca103d-5f28-4324-b584-a35dd7b26539	TypeError: req.json is not a function
+20230228	22:50:05	af72960e-eda4-434e-81bb-e94537427994	TypeError: req.json is not a function
+20230228	22:51:08	d0cc53bf-d009-4123-b360-dcdc06638582	TypeError: req.json is not a function
