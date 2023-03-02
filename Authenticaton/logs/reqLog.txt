@@ -158,3 +158,15 @@
 20230228	22:54:30	196bf207-be1b-48e4-ba80-0137bd6a9cd7	GET	undefined	/employees/:id=2
 20230228	22:54:44	2d239e06-7084-42fd-9f3d-6c7919678003	GET	undefined	/employees/:id=2
 20230228	22:55:25	82218454-9979-43d6-a9be-7d85ad942f3d	GET	undefined	/employees/2
+20230301	23:51:36	0f6a3d8e-02a0-4f72-aab2-1a67b61c64fd	POST	undefined	/register
+20230301	23:52:57	9ebc6ea9-f147-4b1a-8a7e-921aac3bb937	POST	undefined	/register
+20230301	23:52:58	955ea313-f4bb-4468-a792-6a3f4b10b5d2	POST	undefined	/register
+20230301	23:53:22	eb5b00cb-c8bf-4945-96f3-a9d44996dec2	POST	undefined	/register
+20230301	23:53:48	4768d6da-6f67-4070-9285-cd4221df45c4	POST	undefined	/register
+20230301	23:55:20	0a800cf0-bf27-4e76-9a0b-22fa9b3d955b	POST	undefined	/register
+20230301	23:55:45	f2258304-423d-418b-8145-334e86d1cb50	POST	undefined	/register
+20230301	23:55:52	4109fd98-c621-4b78-8e1c-1c862baf63ff	POST	undefined	/register
+20230302	00:21:21	05866cf9-6720-4515-b574-a5832d6e9a6b	GET	undefined	/register
+20230302	00:21:42	54ff5869-0ecf-4172-8301-2ee59e9b8881	POST	undefined	/register
+20230302	00:21:52	eec5710e-5c0f-4d4e-8624-d806258b2664	POST	undefined	/auth
+20230302	00:22:09	0e1d2bc6-a1ed-4ac1-a28c-245798593bf8	POST	undefined	/auth
