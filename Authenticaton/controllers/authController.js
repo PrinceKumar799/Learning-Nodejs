@@ -18,10 +18,12 @@ const handleLogin = async(req,res) => {
     const match = await bcrypt.compare(pwd,foundUser.password);
     if(match)
     {
-        const accessToken = jwt.sign({"username" : foundUser.username,}, process.env.ACCESS_TOKEN_SECRET,
+        const accessToken = jwt.sign({"username" : foundUser.username,}, process.env.ACCESS_TOKEN_SECRECT,
         {expiresIn:'30s'});
-        const refreshToken = jwt.sign({"username" : foundUser.username,}, process.env.REFRESH_TOKEN_SECRET,
+        const refreshToken = jwt.sign({"username" : foundUser.username,}, process.env.REFRESH_TOKEN_SECRECT,
         {expiresIn:'1d'});
+
+        //Saving refreshToken with current user
         const otherUsers = usersDB.users.filter(person => person.username !== foundUser.username);
 
         //doubt
